@@ -1,0 +1,32 @@
+{
+    "name": "odoorbell/fa6repair",
+    "description": "Font Awesome 6 icon repair, addressing the issue of certain extensions being unable to display icons.",
+    "type": "flarum-extension",
+    "version": "v1",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.8.0"
+    },
+    "authors": [
+        {
+            "name": "Xiaoxiaobai5724",
+            "email": "odoorbell@163.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/odoorbell/fa6repair/issues",
+        "source": "https://github.com/odoorbell/fa6repair"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Font Awesome 6 Repair",
+            "category": "theme",
+            "icon": {
+                "name": "fas fa-gear",
+                "backgroundColor": "#E5AA70",
+                "color": "#fff"
+            }
+        }
+    }
+}
