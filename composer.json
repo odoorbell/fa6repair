@@ -2,7 +2,7 @@
     "name": "odoorbell/fa6repair",
     "description": "Font Awesome 6 icon repair, addressing the issue of certain extensions being unable to display icons.",
     "type": "flarum-extension",
-    "version": "v1",
+    "version": "v1.0.1",
     "license": "MIT",
     "require": {
         "flarum/core": "^1.0.0"
